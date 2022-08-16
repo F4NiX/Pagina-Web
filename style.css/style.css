@@ -1,0 +1,14 @@
+body{
+    background-color: azure;
+}
+h1
+{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(red, rgb(128, 64, 0), rgb(3, 3, 10));
+}
+p{
+    text-align: justify;
+    font-size: 28px;
+    color:rgb(rgb(0, 119, 255), rgb(168, 168, 168), rgb(72, 167, 165))
+}
